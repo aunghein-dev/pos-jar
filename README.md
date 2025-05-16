@@ -73,7 +73,7 @@ Export to Excel with date filters.
 > ⚠️ Requires Java 17 or higher.
 
 1. Download the latest `.jar` file  
-   👉 [Click here to download](https://github.com/aunghein-dev/pos-jar/raw/main/builds/POS-System.jar)
+   👉 [Click here to download](https://github.com/aunghein-dev/pos-jar/blob/main/out/artifacts/POS_jar/POS.jar)
 
 2. Run via terminal or double-click:
 ```bash
